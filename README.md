@@ -5,12 +5,15 @@ Quantum physics on which quantum computing is based on two features:
   - Superposition - refers to a combination of all possible configurations of the qubit. 
   - Entanglement - pairs of qubits can be made to become entangled. This means that the two qubits then exist in a single state. 
   - Decoherence - occurs when the quantum behavior of qubits decays. The quantum state can be disturbed instantly by vibrations or temperature changes. This can cause qubits to fall out of superposition and cause errors to appear in computing. It's important that qubits be protected from such interference by, for instance, supercooled refridgerators, insulation, and vacuum chambers
-
-
 ***
 
+## Quantum Machine Learning - QML
+Quantum Machine Learning takes elements from classical Machine Learning theory, and views quantum computing from that lens. The main goal of Quantum Machine Learning is to speed things up by applying what we know from quantum computing to machine learning. 
+
+
 ## Blogs
--[What is quantum computing?](https://www.investopedia.com/terms/q/quantum-computing.asp)
+- [What is quantum computing?](https://www.investopedia.com/terms/q/quantum-computing.asp)
+- [Beginner guide to quantum machine learning](https://blog.paperspace.com/beginners-guide-to-quantum-machine-learning/)
 ***
 
 ## Scintific articles
