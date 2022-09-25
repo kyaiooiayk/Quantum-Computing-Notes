@@ -10,6 +10,8 @@ Quantum physics on which quantum computing is based on two features:
 ## Quantum Machine Learning - QML
 Quantum Machine Learning takes elements from classical Machine Learning theory, and views quantum computing from that lens. The main goal of Quantum Machine Learning is to speed things up by applying what we know from quantum computing to machine learning. 
 
+## python-based package
+- [PennyLane](https://pennylane.ai/)
 
 ## Blogs
 - [What is quantum computing?](https://www.investopedia.com/terms/q/quantum-computing.asp)
