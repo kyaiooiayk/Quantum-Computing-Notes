@@ -12,7 +12,9 @@ Quantum Machine Learning takes elements from classical Machine Learning theory, 
 ***
 
 ## Python-based package
-- [PennyLane](https://pennylane.ai/)
+- [PennyLane](https://pennylane.ai/) is a cross-platform Python library for differentiable programming of quantum computers. Train a quantum computer the same way as a neural network.
+- [PyQuil](https://github.com/rigetti/pyquil) is a Python library for quantum programming using Quil, the quantum instruction language developed at Rigetti Computing. 
+- [QuTiP](https://github.com/qutip/qutip) is open-source software for simulating the dynamics of closed and open quantum systems. QuTiP aims to provide user-friendly and efficient numerical simulations of a wide variety of quantum mechanical problems, including those with Hamiltonians and/or collapse operators with arbitrary time-dependence, commonly found in a wide range of physics applications.
 ***
 
 ## Blogs
