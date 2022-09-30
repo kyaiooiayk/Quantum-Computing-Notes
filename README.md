@@ -25,6 +25,10 @@ Quantum Machine Learning takes elements from classical Machine Learning theory, 
 - [Quantum computing use cases are getting real—what you need to know](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/quantum-computing-use-cases-are-getting-real-what-you-need-to-know)
 ***
 
+## Books
+- [Quantum Computing: An Applied Approach](https://www.amazon.com/Quantum-Computing_-An-Applied-Approach/dp/3030832732/ref=sr_1_21?crid=2UCJ1VCPRDH78&keywords=quantum+computing&qid=1643820303&s=books&sprefix=quantum+computing%2Cstripbooks%2C41&sr=1-21&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb4xn0yOXSy2gRUwsUFg9BLHlCyf-Wp30Im3Dh6fKQ3oLtDU_Xbz3OxoC5rkQAvD_BwE)
+***
+
 ## Scintific articles
 - [2019 | Quantum Finance Forecast System with Quantum Anharmonic Oscillator Model for Quantum Price Level Modeling](http://www.iajer.com/wp-content/uploads/2021/02/A420121.pdf)
 - [2019 | Quantum-inspired algorithms in practice](https://arxiv.org/abs/1905.10415)
