@@ -36,5 +36,7 @@ Quantum Machine Learning takes elements from classical Machine Learning theory, 
 - [2013 | Quantum algorithms for supervised and unsupervised machine learning](https://arxiv.org/abs/1307.0411)
 ***
 
+## Businesses working on quanutum technologies
+- [Cambridge Quantum | Founded in 2014](https://cambridgequantum.com/)
 ## Notes
 - [Google slides](https://drive.google.com/drive/u/1/folders/1O5rPQbLesRYI8hlQbYly6Ch4BjF-DXXK)
