@@ -41,7 +41,8 @@ Quantum Machine Learning takes elements from classical Machine Learning theory, 
 ## Businesses working on quanutum technologies
 - [Cambridge Quantum | Founded in 2014 | Main focus](https://cambridgequantum.com/)
 - [Objectivity | Not main focus](https://www.objectivity.co.uk/services/quantum-computing/)
-
+- [BosonQ Psi | Funded in 202]([https://www.future-of-computing.com/](https://www.bosonqpsi.com/))
 ***
+
 ## Notes
 - [Google slides](https://drive.google.com/drive/u/1/folders/1O5rPQbLesRYI8hlQbYly6Ch4BjF-DXXK)
