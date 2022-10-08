@@ -15,6 +15,7 @@ Quantum Machine Learning takes elements from classical Machine Learning theory, 
 - [PennyLane](https://pennylane.ai/) is a cross-platform Python library for differentiable programming of quantum computers. Train a quantum computer the same way as a neural network.
 - [PyQuil](https://github.com/rigetti/pyquil) is a Python library for quantum programming using Quil, the quantum instruction language developed at Rigetti Computing. 
 - [QuTiP](https://github.com/qutip/qutip) is open-source software for simulating the dynamics of closed and open quantum systems. QuTiP aims to provide user-friendly and efficient numerical simulations of a wide variety of quantum mechanical problems, including those with Hamiltonians and/or collapse operators with arbitrary time-dependence, commonly found in a wide range of physics applications.
+- [TensoFlow Quantum](https://ai.googleblog.com/2020/03/announcing-tensorflow-quantum-open.html) TFQ is an open-source library for the rapid prototyping of quantum ML models. TFQ provides the tools necessary for bringing the quantum computing and machine learning research communities together to control and model natural or artificial quantum systems; e.g. Noisy Intermediate Scale Quantum (NISQ) processors with ~50 - 100 qubits. 
 ***
 
 ## Blogs
@@ -23,6 +24,7 @@ Quantum Machine Learning takes elements from classical Machine Learning theory, 
 - [5 Quantum Machine Learning Resources not to miss](https://towardsdatascience.com/5-quantum-machine-learning-resources-not-to-miss-8aeff7655604)
 - [Don’t ask what Quantum Computing can do for Machine Learning, Ask what Machine Learning can do for Quantum computing](https://towardsdatascience.com/dont-ask-what-quantum-computing-can-do-for-machine-learning-cc44feeb51e8)
 - [Quantum computing use cases are getting real—what you need to know](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/quantum-computing-use-cases-are-getting-real-what-you-need-to-know)
+- [Is Quantum Machine Learning the next thing?](https://medium.com/illumination-curated/is-quantum-machine-learning-the-next-thing-6328b594f424)
 ***
 
 ## Books
