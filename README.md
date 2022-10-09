@@ -26,6 +26,7 @@ Quantum Machine Learning takes elements from classical Machine Learning theory, 
 - [Don’t ask what Quantum Computing can do for Machine Learning, Ask what Machine Learning can do for Quantum computing](https://towardsdatascience.com/dont-ask-what-quantum-computing-can-do-for-machine-learning-cc44feeb51e8)
 - [Quantum computing use cases are getting real—what you need to know](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/quantum-computing-use-cases-are-getting-real-what-you-need-to-know)
 - [Is Quantum Machine Learning the next thing?](https://medium.com/illumination-curated/is-quantum-machine-learning-the-next-thing-6328b594f424)
+- [Quantum Supremacy Using a Programmable Superconducting Processor](https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html)
 ***
 
 ## Books
