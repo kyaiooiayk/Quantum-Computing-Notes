@@ -34,6 +34,7 @@ Quantum Machine Learning takes elements from classical Machine Learning theory, 
 ***
 
 ## Scintific articles
+- [2021 | TensorFlow Quantum: A Software Framework for Quantum Machine Learning](https://arxiv.org/abs/2003.02989)
 - [2019 | Quantum Finance Forecast System with Quantum Anharmonic Oscillator Model for Quantum Price Level Modeling](http://www.iajer.com/wp-content/uploads/2021/02/A420121.pdf)
 - [2019 | Quantum-inspired algorithms in practice](https://arxiv.org/abs/1905.10415)
 - [2017 | Unsupervised Machine Learning on a Hybrid Quantum Computer](https://arxiv.org/abs/1712.05771)
