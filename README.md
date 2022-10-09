@@ -43,7 +43,7 @@ Quantum Machine Learning takes elements from classical Machine Learning theory, 
 ***
 
 ## Wokshop
-- [1st Workshop on Quantum Tensor Networks in Machine Learnin](https://tensorworkshop.github.io/NeurIPS2020/accepted_papers.html)
+- [1st Workshop on Quantum Tensor Networks in Machine Learning](https://tensorworkshop.github.io/NeurIPS2020/accepted_papers.html)
 ***
 
 ## Businesses working on quanutum technologies
