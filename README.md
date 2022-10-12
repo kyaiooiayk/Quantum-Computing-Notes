@@ -42,6 +42,9 @@ Quantum Machine Learning takes elements from classical Machine Learning theory, 
 - [2013 | Quantum algorithms for supervised and unsupervised machine learning](https://arxiv.org/abs/1307.0411)
 ***
 
+## [White papers](https://github.com/kyaiooiayk/Quantum-Computing-Notes/blob/main/notes/White_papers.md)
+***
+
 ## Wokshop
 - [1st Workshop on Quantum Tensor Networks in Machine Learning](https://tensorworkshop.github.io/NeurIPS2020/accepted_papers.html)
 ***
