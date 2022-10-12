@@ -46,7 +46,7 @@ Quantum Machine Learning takes elements from classical Machine Learning theory, 
 - [1st Workshop on Quantum Tensor Networks in Machine Learning](https://tensorworkshop.github.io/NeurIPS2020/accepted_papers.html)
 ***
 
-## Businesses working on quanutum technologies
+## Businesses working on quantum technologies
 - [Cambridge Quantum | Founded in 2014 | Main focus](https://cambridgequantum.com/)
 - [Objectivity | Not main focus](https://www.objectivity.co.uk/services/quantum-computing/)
 - [BosonQ Psi | Funded in 2020 | Main focus](https://www.bosonqpsi.com/)
