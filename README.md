@@ -30,7 +30,7 @@ Quantum Machine Learning takes elements from classical Machine Learning theory, 
 - [Quantum Machine Learning with Python by Santanu Pattanayak](https://link.springer.com/book/10.1007/978-1-4842-6522-2) | [GitHub](https://github.com/Apress/quantum-machine-learning-python)
 ***
 
-## [Scientific articles](https://github.com/kyaiooiayk/Quantum-Computing-Notes/tree/main/notes)
+## [Scientific articles](https://github.com/kyaiooiayk/Quantum-Computing-Notes/blob/main/notes/Scientific_articles.md)
 ***
 
 ## [White papers](https://github.com/kyaiooiayk/Quantum-Computing-Notes/blob/main/notes/White_papers.md)
