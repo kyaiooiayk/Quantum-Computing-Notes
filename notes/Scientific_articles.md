@@ -16,3 +16,4 @@
 - [2017 | Quantum Neuron: an elementary building block for machine learning on quantum computers](https://arxiv.org/abs/1711.11240)
 - [2014 | The quest for a Quantum Neural Network](https://arxiv.org/pdf/1408.7005.pdf)
 - [2013 | Quantum algorithms for supervised and unsupervised machine learning](https://arxiv.org/abs/1307.0411)
+- [2011 | Quantum Circuit Design for Solving Linear Systems of Equations](https://arxiv.org/abs/1110.2232)
