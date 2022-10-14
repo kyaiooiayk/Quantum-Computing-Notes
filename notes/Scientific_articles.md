@@ -6,6 +6,7 @@
 - [2021 | Low depth amplitude estimation on a trapped ion quantum computer](https://arxiv.org/abs/2109.09685)
 - [2021 | TensorFlow Quantum: A Software Framework for Quantum Machine Learning](https://arxiv.org/abs/2003.02989)
 - [2022 | Nearest Centroid Classification on a Trapped Ion Quantum Computer](https://arxiv.org/abs/2012.04145)
+- [2020 | Finding flows of a Navier–Stokes fluid through quantum computing](https://www.nature.com/articles/s41534-020-00291-0)
 - [2019 | Quantum Finance Forecast System with Quantum Anharmonic Oscillator Model for Quantum Price Level Modeling](http://www.iajer.com/wp-content/uploads/2021/02/A420121.pdf)
 - [2019 | Quantum-inspired algorithms in practice](https://arxiv.org/abs/1905.10415)
 - [2018 | Inhomogeneous driving in quantum annealers can result in orders-of-magnitude improvements in performance](https://arxiv.org/abs/1806.11091)
