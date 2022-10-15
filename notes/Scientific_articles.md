@@ -26,11 +26,15 @@
 - [2011 | Quantum Circuit Design for Solving Linear Systems of Equations](https://arxiv.org/abs/1110.2232)
 ***
 
-## CFD
+## CFD - Computational Fluid Dynamics
 - [2022 | Solving Burgers’ equation with quantum computing](https://link.springer.com/article/10.1007/s11128-021-03391-8)
 - [2022 | Variational quantum solutions to the advection–diffusion equation for applications in fluid dynamics](https://link.springer.com/article/10.1007/s11128-022-03667-7)
 - [2022 | Variational quantum evolution equation solver](https://www.nature.com/articles/s41598-022-14906-3)
 - [2021 | High-precision quantum algorithms for partial differential equations](https://arxiv.org/pdf/2002.07868.pdf)
 - [2020 | Finding flows of a Navier–Stokes fluid through quantum computing](https://www.nature.com/articles/s41534-020-00291-0)
 - [2019 | Variational quantum algorithms for nonlinear problems](https://arxiv.org/pdf/1907.09032.pdf)
+- [2018 | A Quantum Algorithm for Solving Linear Differential Equations: Theory and Experiment](https://arxiv.org/abs/1807.04553)
+- [2017 | Quantum Algorithm for Simulating the Wave Equation](https://arxiv.org/abs/1711.05394)
+- [2010 | High-order quantum algorithm for solving linear differential equations](https://arxiv.org/abs/1010.2745)
+- [2008 | A quantum algorithm to solve nonlinear differential equations](https://arxiv.org/abs/0812.4423)
 ***
