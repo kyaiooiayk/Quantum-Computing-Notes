@@ -6,6 +6,7 @@
 
 ## Optimisation
 - [2022 | Surrogate-based optimization for variational quantum algorithms](https://arxiv.org/abs/2204.05451) | [GitHub](https://github.com/sandialabs/sbovqaopt)
+- [2021 | Classical variational simulation of the Quantum Approximate Optimization Algorithm](https://www.nature.com/articles/s41534-021-00440-z)
 ***
 
 ## ML
