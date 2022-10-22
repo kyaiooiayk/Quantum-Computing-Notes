@@ -31,6 +31,7 @@
 - [2022 | Solving Burgers’ equation with quantum computing](https://link.springer.com/article/10.1007/s11128-021-03391-8)
 - [2022 | Variational quantum solutions to the advection–diffusion equation for applications in fluid dynamics](https://link.springer.com/article/10.1007/s11128-022-03667-7)
 - [2022 | Variational quantum evolution equation solver](https://www.nature.com/articles/s41598-022-14906-3)
+- [2021 | Quantum Finite Volume Method for Computational Fluid Dynamics with Classical Input and Output](https://arxiv.org/abs/2102.03557)
 - [2021 | High-precision quantum algorithms for partial differential equations](https://arxiv.org/pdf/2002.07868.pdf)
 - [2020 | Finding flows of a Navier–Stokes fluid through quantum computing](https://www.nature.com/articles/s41534-020-00291-0)
 - [2019 | Variational quantum algorithms for nonlinear problems](https://arxiv.org/pdf/1907.09032.pdf)
