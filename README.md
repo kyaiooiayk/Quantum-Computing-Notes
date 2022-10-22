@@ -17,7 +17,7 @@ Quantum Machine Learning takes elements from classical Machine Learning theory, 
 ## [Blog articles](https://github.com/kyaiooiayk/Quantum-Computing-Notes/blob/main/notes/Blogs.md)
 ***
 
-- [News](https://github.com/kyaiooiayk/Quantum-Computing-Notes/blob/main/notes/News.md)
+## [News](https://github.com/kyaiooiayk/Quantum-Computing-Notes/blob/main/notes/News.md)
 ***
 
 ## [Books](https://github.com/kyaiooiayk/Quantum-Computing-Notes/tree/main/notes)
