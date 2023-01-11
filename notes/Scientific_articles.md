@@ -1,6 +1,7 @@
 # Scientific articles
 
 ## Quantum computing
+- [2023 | Myths and Legends in High-Performance Computing](https://arxiv.org/abs/2301.02432)
 - [2022 | NISQ computing: where are we and where do we go?](https://link.springer.com/article/10.1007/s43673-022-00058-z)
 - [2020 | Variational Quantum Linear Solver](https://arxiv.org/abs/1909.05820)
 ***
