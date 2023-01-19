@@ -7,3 +7,5 @@
 - [Is Quantum Machine Learning the next thing?](https://medium.com/illumination-curated/is-quantum-machine-learning-the-next-thing-6328b594f424)
 - [Quantum Supremacy Using a Programmable Superconducting Processor](https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html)
 - [Machine Learning Will Tackle Quantum Problems, Too](https://spectrum.ieee.org/machine-learning-quantum)
+- [Knocking on Turing’s door: Quantum Computing and Machine Learning](https://thegradient.pub/knocking-on-turings-door-quantum-computing-and-machine-learning/)
+***
