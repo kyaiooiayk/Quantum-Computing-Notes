@@ -7,3 +7,4 @@
 - [QCWARE | Funded in 2014 | Main focus](https://www.qcware.com/team)
 - [D-Wave Systems | Funded in 1999 | Quantum hardwares](https://www.dwavesys.com/)
 - [Quanscient](https://quanscient.com/)
+- [Qbitsolve](https://www.qubitsolve.com/home)
